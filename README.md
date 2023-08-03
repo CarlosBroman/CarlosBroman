@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CarlosBroman. I have a background in Biotechnology 🧬 and I just graduated from my Marine Biotech MsC 🦈.
-- 🌍 I am originally from Barcelona, Spain. But I have lived in several places lately 🇧🇪🇮🇹🇫🇷🇯🇵
+- 🌍 From Barcelona, Spain.
 - 👀 My interests lie in the intersection of biotechnology and computer science
 - 🌱 Currently, I am focused on expanding my knowledge in web development ⌨️, Python programming 🐍, and mastering the use of GitHub!
 - 💞️ I’m actively seeking collaboration opportunities where I can enhance my skills, particularly those related to Life Sciences, such as drug discovery 💊.
